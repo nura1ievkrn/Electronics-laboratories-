@@ -1,0 +1,49 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed Feb 25 11:05:40 2026
+# Process ID: 13196
+# Log file: d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/planAhead.log
+# Journal file: d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI\planAhead.jou
+#-----------------------------------------------------------
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Common 17-86] Your PlanAhead license expires in -390 day(s)
+INFO: [Device 21-36] Loading parts and site information from D:/ISE/14.7/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [D:/ISE/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [D:/ISE/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+open_project {d:\Users\Ali\Desktop\2 curs\ISe\Electronics-laboratories-\SRO Nuraliyev KAYRALI\SRO.ppr}
+Scanning sources...
+Finished scanning sources
+Qt: Untested Windows version 6.2 detected!
+open_rtl_design -name rtl_1
+Design is defaulting to project part: xc7vx485tffg1157-2L
+Using Verific elaboration
+Parsing VHDL file "D:/ISE/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/lib/synplify/synattr.vhd" into library synplify
+Parsing VHDL file "D:/ISE/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/lib/synplify/synattr.vhd" into library synplify
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/or_gate.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/Not.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/and_gate.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/O2.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/noao2.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/no4.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/no3a2.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/no3.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/nmx2.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/nao22.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/NA3.vhd" into library work
+Parsing VHDL file "d:/Users/Ali/Desktop/2 curs/ISe/Electronics-laboratories-/SRO Nuraliyev KAYRALI/SRO.srcs/sources_1/new/variant23.vhd" into library work
+Loading clock regions from D:/ISE/14.7/ISE_DS/PlanAhead/data\parts/xilinx/virtex7/virtex7/xc7vx485t/ClockRegion.xml
+Loading clock buffers from D:/ISE/14.7/ISE_DS/PlanAhead/data\parts/xilinx/virtex7/virtex7/xc7vx485t/ClockBuffers.xml
+Loading clock placement rules from D:/ISE/14.7/ISE_DS/PlanAhead/data/parts/xilinx/virtex7/ClockPlacerRules.xml
+Loading package pin functions from D:/ISE/14.7/ISE_DS/PlanAhead/data\parts/xilinx/virtex7/PinFunctions.xml...
+Loading package from D:/ISE/14.7/ISE_DS/PlanAhead/data\parts/xilinx/virtex7/virtex7/xc7vx485t/ffg1157/Package.xml
+Loading io standards from D:/ISE/14.7/ISE_DS/PlanAhead/data\./parts/xilinx/virtex7/IOStandards.xml
+Loading device configuration modes from D:/ISE/14.7/ISE_DS/PlanAhead/data\parts/xilinx/virtex7/ConfigModes.xml
+Loading list of drcs for the architecture : D:/ISE/14.7/ISE_DS/PlanAhead/data\./parts/xilinx/virtex7/drc.xml
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Phase 0 | Netlist Checksum: 5b3a8ae4
+open_rtl_design: Time (s): elapsed = 00:00:20 . Memory (MB): peak = 1125.102 ; gain = 582.605

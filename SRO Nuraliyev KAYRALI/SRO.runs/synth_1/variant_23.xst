@@ -1,0 +1,9 @@
+set -loop_iteration_limit 1000
+run
+-ifn variant_23.prj
+-top variant_23
+-p xc7vx485tffg1157-2L
+-ofn variant_23.ngc
+-opt_mode speed
+-opt_level 1
+-netlist_hierarchy rebuilt
